@@ -1051,6 +1051,7 @@
         break;
 
       case 9: //tab
+        list.find('.ui-timepicker-selected').click();
         methods.hide();
         break;
 
